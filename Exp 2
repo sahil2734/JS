@@ -50,3 +50,14 @@ document.getElementById("result").innerHTML += ` ${arr[i]}<br>`;
 
 
 
+
+Algorithm :-
+1. Enter the number for which the table is to be generated.
+2. Write logic for table creation using one of the following :
+   a. for loop
+   b. whil eloop
+3. Display entire table as 
+   2 x 1 = 2
+   2 x 2 = 4
+   and so on...
+4. Stop
