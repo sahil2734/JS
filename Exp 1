@@ -88,3 +88,22 @@ document.getElementById(
 "result3"
 ).innerHTML = `Area of triangle: ${cirResult}.`;
 }
+
+
+
+
+
+
+
+
+
+Algorithm :-
+1. Create varibales to store b & h of the traingle, l and b of rectangle and r of circle.
+2. Create variables triArea, rectArea and circleArea to store areas.
+3. Get values of these variables from user using html or prompt.
+4. Compute area of t, r and c as :
+   a. triArea = 0.5*b*h
+   b. rectArea = l*b
+   c. CircleArea = 3.14*r*r
+5. Display Area of tri, rect and circle.
+
