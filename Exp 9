@@ -50,3 +50,18 @@ const mul = () => {
     document.getElementById("ans").value = mul;
 }
 
+
+
+
+
+
+
+
+Algorithm :-
+1. Create a GUI for calculator using html tags.
+2 GUI should have numbers 0-9 and operators +, -,*, 1,%.
+3. GUI should have button "Clear" to clear the output field.
+4. For every button in calculator define functionality in script tag.
+5. Validate every value entered.
+6. If invalid show an alert.
+7. If valid display correct result in output field.
