@@ -72,3 +72,16 @@ element.style.backgroundColor = "#90EE90";
 
 
 
+
+
+
+
+
+Algorithm :-
+1. Create a home page for a website of your choice using html tags. 
+2. Break page into multiple sections using div tag.
+3. Add tag inside body tag.
+4.Create function changeBgColor() in script tag that changes background color of homepage to light blue.
+5. Call this function when mouse is over the home page. 
+6. Create another function changeFocus () in script tag that changes color of one of the div element to light green.
+7. Call this function when the particular div element is focused
