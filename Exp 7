@@ -41,3 +41,18 @@ console.log(Array.isArray(arr));
 
 
 
+
+
+
+
+
+
+
+Algorithm :-
+1. Create & initialize an array
+2. Add objects to given arr
+3. Display given arr
+4. Add objects at start, middle and end of arr
+5. Display arr after adding objs
+6. Check if the above var is arr
+7. Display the result
