@@ -52,3 +52,17 @@ document.getElementById("result").innerHTML = "EXPIRED";
 
 
 
+
+
+
+
+
+
+Algorithm :-
+1. Define a var containing the date & time at which timer will expire
+2.   "    "  "  which will read current date & time
+3. Calculate remaining time by sub current time from expiry time
+4. Convert the diff into days, hours, minutes, and seconds
+5. Decrement the diff by every 1000 milisec
+6. Display the remaining time
+7. If remaining time becomes -ve display "Countdowm timer expired..!!" else update remaining time and display it 
