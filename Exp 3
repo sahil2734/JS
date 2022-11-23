@@ -95,3 +95,25 @@ document.getElementById(
 
 
 
+Algorithm(Reverse) :-
+1. Define a string to be reversed.
+2. Find the length of the string.
+3. Iterate through the string.
+4. Append every character of string in the new string.
+5. Cont. above steps till end point of the string.
+
+
+Algorithm(Replace) :-
+1. " " " for replacement.
+2. Define match to be replaced
+3.   "    pattern " " added.
+4. Use replace() / replaceAll() method to replace match by pattern
+5. Replace match by pattern by passing first parameter as a string as well as using regExp.
+6. Display new string generated
+
+
+Algorithm(Palindrome) :-
+1. Define a string
+2. Reverse given string using the above method
+3. Compare the rev str with the given str
+4. If both str are same it s palindrome
