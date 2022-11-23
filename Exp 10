@@ -64,3 +64,14 @@ const submit = () => {
 };
 
 
+
+
+
+Validate form using JavaScript as per following rules:
+1. Name should not be blank.
+2. Name should be first name and last name (two words).
+3. Mobile number should not be blank.
+4. Mobile number should be number of 10 digits.
+5. Email id should not be blank.
+6. Email id should be as per the standards.
+7. After clicking on submit display message "Data submitted successfully".
