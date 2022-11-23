@@ -97,5 +97,13 @@ document.getElementById("result4").innerHTML = "Strings are not same"
 
 
 
-
-
+Algorithm :-
+1. Define first str from where match is to be found
+2. Define second str for match
+3. Use of the methods for find the match: 
+   a. Mathematical operations
+   b. Strictly equality operator (===)
+   c. match() method
+   d. matchAll() method
+   e. localCompare() method
+4. Display result for matching
