@@ -90,3 +90,34 @@ document.getElementById("result").innerHTML = "Array is empty."
 
 
 
+
+
+
+
+
+
+
+Algorithm(Remove) :-
+1. Create and initialize an array.
+2. Create function removeArrayElement()
+3. Above function takes element and removes it from given array. 
+4. Display array after removing element.
+5. If the element is not found in array, display "Element Not Found...".
+
+
+
+Algorithm(Check) :-
+1. Create and initialize an array.
+2. Create function checkArrayElement()
+3. Above function takes an element and checks if array contains that element
+4. If the element is present in array, display element value & its index. 
+5. If the element is not found in array, display "Element Not Found...".
+
+
+
+Algorithm(Empty) :-
+1. Create and initialize an array.
+2. Create function emptyArray().
+3. Above function takes an array and removes all elements from it. 
+4. If the element is present in array, display element value & its index.
+5. Display array after removing all elements
